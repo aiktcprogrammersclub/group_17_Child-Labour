@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Simple and Effective Photo Gallery with HTML and JavaScript</title>
+
+<style type="text/css">
+body {
+background: #222;
+margin-top: 20px;
+}
+
+h3 {
+color: #eee;
+font-family: Verdana;
+}
+
+.thumbnails img {
+height: 80px;
+border: 4px solid #555;
+padding: 1px;
+margin: 0 10px 10px 0;
+}
+
+.thumbnails img:hover {
+border: 4px solid #00ccff;
+cursor:pointer;
+}
+
+.preview img {
+border: 4px solid #444;
+padding: 1px;
+height: 500px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="gallery" align="center">
+<h3>Simple and Effective Photo Gallery with HTML and JavaScript</h3><br/>
+
+<div class="thumbnails">
+	<img onmouseover="preview.src=img1.src" id="img1" src="images/gudiya.jpg" alt="Image Not Loaded"/>
+	<img onmouseover="preview.src=img2.src" id="img2" src="http://bit.ly/1ug1e6" alt="Image Not Loaded"/>
+	<img onmouseover="preview.src=img3.src" id="img3" src="http://bit.ly/1yIAYc" alt="Image Not Loaded"/>
+	<img onmouseover="preview.src=img4.src" id="img4" src="http://bit.ly/2LHyDW" alt="Image Not Loaded"/>
+	<img onmouseover="preview.src=img5.src" id="img5" src="http://bit.ly/2wyHSR" alt="Image Not Loaded"/>
+	<img onmouseover="preview.src=img6.src" id="img6" src="http://bit.ly/yRo1i" alt="Image Not Loaded"/>
+</div><br/>
+
+<div class="preview" align="center">
+	<img id="preview" src="http://bit.ly/2rz3hy" alt="No Image Loaded"/>
+</div>
+
+<br/>
+
+<a style="color: #fff; font-family: Verdana;" href="http://www.extremestudio.ro/blog"><h2>www.extremestudio.ro</h2></a>
+
+</div>
+</body>
+</html>

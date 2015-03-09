@@ -1,0 +1,42 @@
+
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+	<title>Child Labour Gallery</title>
+
+	<link rel="stylesheet" href="css/gallery.css" />
+	<link href="css/s.css" rel="stylesheet" type="text/css" />
+
+
+	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+
+
+<img src="images/ab.gif" alt="Child Labour" style="width:1300px;height:250px" style="image-align:center"> 
+
+<div id="header">
+<h1>Child Labour</h1>
+</div>
+<ul id="menu">
+
+ <h3 style="text-align:center"> 
+  <li> <a href="index.php">Home</a></li>
+  <li> <a href="rls.php">Real Life Stories</a></li>
+  <li> <a href="blog.php">Blog</a></li>
+  <li> <a href="gallery.php">Gallery</a></li>
+  <li> <a href="donate.php">Donate/Support Us</a></li>
+  <li> <a href="complaint.php">Complaint</a></li>
+  <li> <a href="login.php">Login</a></li>
+  <li> <a href="contact.php">Contact Us</a></li>
+</ul> 
+</h3>
+
+<!--
+<div id="nav">
+ <h3 "text-align:left"> 
+<a href="stop.php">STOP Child Labour</a><br>
+ <a href="reg.php">Register</a><br>
+<a href="login.php">User Login</a><br>
+<a href="alogin.php">Admin Login</a><br>
+</h3>
+</div>
+-->

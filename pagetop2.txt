@@ -1,0 +1,32 @@
+
+<img src="images/ab.gif" alt="Child Labour" style="width:1300px;height:250px" style="image-align:center"> 
+
+<div id="header">
+<h1>Child Labour</h1>
+</div>
+
+<ul id="menu">
+
+ <h3 style="text-align:center"> 
+  <li> <a href="homes.php">Home</a></li>
+  <li> <a href="urls.php">Real Life Stories</a></li>
+  <li> <a href="ublog.php">Blog</a></li>
+  <li> <a href="ugallery.php">Gallery</a></li>
+  <li> <a href="udonate.php">Donate/Support Us</a></li>
+  <li> <a href="ucomplaint.php">Complaint</a></li>
+  <li> <a href="log_next.php">Logout</a></li>
+  <li> <a href="ucontact.php">Contact Us</a></li>
+</ul> 
+</h3>
+
+
+<!--
+<div id="nav">
+ <h3 "text-align:left"> 
+<a href="stop.php">STOP Child Labour</a><br>
+ <a href="reg.php">Register</a><br>
+<a href="login.php">User Login</a><br>
+<a href="alogin.php">Admin Login</a><br>
+</h3>
+</div>
+-->

@@ -1,0 +1,24 @@
+<div id="footer">
+<table align="center">
+<tr>
+<td><iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaikh16&amp;width&amp;height=20&amp;colorscheme=light&amp;layout=standard&amp;show_faces=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:20px;" allowTransparency="true"></iframe></td>
+ <!-- twitter --> 
+ 
+ <td><a class="twitter-follow-button"
+  href="https://twitter.com/shaikh16"
+  data-show-count="true"
+  data-lang="en">
+Follow @shaikh16
+</a></td>
+
+<td><script src="https://apis.google.com/js/platform.js" async defer>
+    </script>
+	 <g:plusone></g:plusone> </td>
+</tr>
+</table>
+<br><br>
+
+Copyright © Shoeb Shaikh
+
+<a href="#">Back to top</a>
+</div>

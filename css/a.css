@@ -1,0 +1,134 @@
+/*body{
+padding:0px; 
+margin:0px;
+ background:#FFFFFf; 
+ color:#6f6f6f;
+ font:10px/14px Tahoma, sans-serif;
+ }
+div, p, ul, h2, h3, h4, img{
+padding:0px;
+ margin:0px;
+ }
+ul{
+list-style-type:none;
+}
+
+#chat{width:300px; hight:300px;border:2px;margin:100px;background-color:#009900;}
+#list{width:200px; hight:300px;border:2px;margin:100px;color:#ffffff;}
+
+.clear {
+clear: both; margin: 0px
+}
+
+
+#templatemo_menu {
+	clear: both;
+	width: 100%;
+	height: 50px;
+	margin: 0 auto;
+	//border:2px solid;
+
+	//background: url(images/templatemo_menu_bg.jpg) top center no-repeat;
+}
+
+#templatemo_menu ul {
+	width: 780px;
+	margin: 0 auto;
+	padding: 10px 0 0 0;
+	list-style: none;
+}
+
+#templatemo_menu ul li {
+	padding: 0;
+	margin: 0px;
+	display: inline;
+	
+}
+
+#templatemo_menu ul li a {
+	float: left;
+	display: block;
+	width: 120px;
+	height: 25px;
+	padding: 5px 0 0 0;
+	margin: 0 10px 0 0;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFFFFF;	
+	background-color:#00009f;
+	outline: none;
+}
+
+#templatemo_menu li a:hover, #templatemo_menu li .current {
+	color: #FF0000;
+	//background:url(images/templatemo_button_01.png) no-repeat;
+	background-color:ff0000;
+	}
+
+#templatemo_menu li .last {
+	margin-right: 10px;
+}
+*/
+//#content{width:100%; position:relative; margin-left:300px; clear:both; padding: 18px 15px 0 16px;}
+
+/*form designing part*/
+#middlePan{width:790px;hight:200px; position:rel	ative; float:left; padding-right:26px;}
+#label{color:#f45400;text-align:left;font-size:16px;margin-top:20px;margin-bottom:10px}
+#textbox{background-color:#f45400;width:250px; font-size:16px;border:1px solid white;float:right;color:white;margin-right:200px}
+/*#date {margin-left:20px }*/
+#dates{background-color:#f45400; padding-left:0px;color:white;}
+
+#leftPan{width:150px; position:relative; float:left; padding-right:16px;}
+
+#categories {background:#00BFFF; padding-bottom:20px;}
+#categories ul{padding-left:10px; text-align:left}
+#categories ul li a{display:block; height:30px; background:url(../images/bullet.jpg) 0 6px no-repeat; font:15px/20px Tahoma, Arial, Helvetica, sans-serif; 
+color:#800000; font-weight:normal; text-decoration:none; padding:0 0 0 23px;}*/
+#categories ul li a:hover{text-decoration:underline; color:#ffffff;} 
+
+#leftpan{width:370px;	float:left;margin:1px; padding:10px; overflow:hidden;margin-top:50px;}
+/* end of menu */
+/*
+#footer{
+width:100%;
+ height:70px; 
+ background:#FFFFFF; 
+ position:relative;
+ margin: 10px auto 0 auto;
+ clear:both;
+ border:2px solid;
+ }
+#footer img{
+width:141px;
+ height:20px; 
+ position:absolute;
+ top:26px;
+ left:32px;
+ }
+#footer p{
+font:10px/16px Tahoma, Arial, Helvetica, sans-serif; font-weight:normal; 
+color:#6f6f6f;
+ display:block; 
+width:552px;
+ margin: 0 0 0 208px; 
+padding-top: 22px; 
+text-align:center;
+}
+
+#footer a{
+font:10px/16px Tahoma, Arial, Helvetica, sans-serif;
+ font-weight:normal; 
+ color:#800000;
+ text-decoration:none;
+ }
+
+#footer a:hover{
+color:#000; 
+text-decoration:none;
+ background:#0000ff;
+
+}
+
+#bill{ border:5px solid black;}
+*/

@@ -1,0 +1,29 @@
+
+<img src="images/ab.gif" alt="Child Labour" style="width:1300px;height:250px" style="image-align:center"> 
+
+<div id="header">
+<h1>Child Labour</h1>
+</div>
+
+<ul id="menu">
+		 <h3 style="text-align:center"> 
+		  <li> <a href="admin_pannel1.php">Home</a></li>
+		  <li> <a href="arls.php">Real Life Stories</a></li>
+		  <li> <a href="agallery.php">Gallery</a></li>
+		  <li> <a href="deleteb.php">Delete Blogs</a></li>
+		 <li> <a href="areg.php">Add an Admin</a></li>
+		  <li> <a href="logout.php">Logout</a></li>
+
+</ul> 
+</h3>
+
+<!--
+<div id="nav">
+ <h3 "text-align:left"> 
+<a href="stop.php">STOP Child Labour</a><br>
+ <a href="reg.php">Register</a><br>
+<a href="login.php">User Login</a><br>
+<a href="alogin.php">Admin Login</a><br>
+</h3>
+</div>
+-->
